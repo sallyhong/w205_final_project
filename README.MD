@@ -18,8 +18,8 @@ PORT: 5432
 Sample commands for centos.
 $ su - postgres
 $ psql
-# create database schoolstream;
-# \q
+postgres # create database schoolstream;
+postgres # \q
 
 In our case, we had to add the option 'template template0' to create the database.
 
