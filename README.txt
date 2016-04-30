@@ -75,6 +75,6 @@ S05. 05_schoolsentpct.py
    Output: school, sentiment, count, percentage of school's total count
 
 S06. 06_highestsentschoolcand.py
-Description: See which schools have the highest sentiment % for a candidate
+   Description: See which schools have the highest sentiment % for a candidate
    Input: positive or negative, candidate
    Output: candidate, sentiment, school, count, percentage of total sentiment count
